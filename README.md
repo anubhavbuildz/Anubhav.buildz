@@ -46,18 +46,19 @@ Building cloud infrastructure, automation systems, and scalable backend platform
 ---
 
 ## 🚀 Featured Projects
+### ☁️ Cloud Code Execution Platform (Lightweight Simulation)
 
-### ☁️ Cloud Code Execution Platform
-
-A secure platform where users can run code inside isolated containers in the cloud.
+A lightweight simulation of a secure cloud platform where users can run code inside isolated containers.  
+The system demonstrates how cloud providers execute workloads securely using container isolation and backend orchestration.
 
 **Tech:** Go, Docker, Nginx, Linux
 
 ---
 
-### ⚙️ IntelliBuild – CI/CD Integration System
+### ⚙️ IntelliBuild – CI/CD Integration System (Lightweight Simulation)
 
-A custom CI pipeline that performs automated testing and generates detailed bug reports and logs.
+A lightweight CI/CD pipeline simulation that performs automated testing and generates structured bug reports and logs.  
+Built to demonstrate how modern CI systems validate code through automated workflows.
 
 **Tech:** Go, Containers, Linux
 
