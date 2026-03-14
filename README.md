@@ -46,12 +46,23 @@ Building cloud infrastructure, automation systems, and scalable backend platform
 ---
 
 ## 🚀 Featured Projects
-### ☁️ Cloud Code Execution Platform (Lightweight Simulation)
+### 🔐 AuthFlow Supabase – Secure Authentication Microservice
 
-A lightweight simulation of a secure cloud platform where users can run code inside isolated containers.  
-The system demonstrates how cloud providers execute workloads securely using container isolation and backend orchestration.
+A secure and scalable authentication microservice built using **FastAPI, Supabase, and Redis**.  
+Designed for modern applications that require secure authentication, device tracking, and session management.
 
-**Tech:** Go, Docker, Nginx, Linux
+This project demonstrates how authentication systems can be implemented as **independent microservices**, enabling scalable and secure login workflows for applications from **MVPs to production deployments**.
+
+**Key Features**
+
+- Secure authentication powered by **Supabase**
+- **Device fingerprinting** for enhanced login security
+- **Session management** using Redis
+- High-performance APIs built with **FastAPI**
+- Clean and modern authentication UI
+- Designed for **scalable deployments**
+
+**Tech:** FastAPI • Supabase • Redis • Python • Docker • Linux
 
 ---
 
