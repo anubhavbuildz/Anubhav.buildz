@@ -100,11 +100,11 @@ Designed and deployed a **multi-tier VPC architecture** with private and public 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=infrabyanubhav&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anubhavbuildz&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infrabyanubhav&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavbuildz&theme=tokyonight"/>
 </p>
 
 ---
