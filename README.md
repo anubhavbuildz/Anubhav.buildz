@@ -104,7 +104,7 @@ Designed and deployed a **multi-tier VPC architecture** with private and public 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavbuildz&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavbuildz&theme=tokyonight"/> 
 </p>
 
 ---
