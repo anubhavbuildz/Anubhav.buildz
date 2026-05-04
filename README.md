@@ -116,13 +116,13 @@ Designed and deployed a **multi-tier VPC architecture** with private and public 
 </p>
 
 ---
-## ISO
-[![ISO Badge](https://training-academy.ukas.com/openbadge/api/issuer/23a8d120-f3c9-53bc-e063-6f8d460aade1/assertion/50fb1db5-9596-2149-e063-6f8d460a4237/image)](https://training-academy.ukas.com/lmt/!clmsbadges.embed?bdg=50fb1db5-9596-2149-e063-6f8d460a4237&src=snippet)
+
 
 ## 🌍 Connect With Me
 
 * LinkedIn: https://linkedin.com
 * GitHub: https://github.com/anubhavbuildz
+* instagram: https://instagram.com/anubhav__sharma09
 
 ---
 
